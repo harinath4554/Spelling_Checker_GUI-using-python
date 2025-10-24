@@ -1,4 +1,5 @@
 Spelling Checker GUI
+
 This is a simple Python Spelling Checker application with a graphical user interface (GUI) built using Tkinter. The app allows users to enter a word or text, which is then checked and corrected for spelling mistakes using the TextBlob library. When the user inputs a word and clicks the "Check" button, the program displays the corrected spelling.
 
 Features
